@@ -1,4 +1,4 @@
-# Guess the Animal - x402
+# Guess the Animal 
 
 Enter your name, pay with Solana, and get a random animal based on the letter pattern in your name. Powered by x402 payment protocol on Solana devnet.
 
